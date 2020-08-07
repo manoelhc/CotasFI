@@ -22,7 +22,10 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    # Runs a single command using the runners shell
+    - name: Setup email
+      run: git config --global user.email manoelhc@gmail.com
+    - name: Setup name
+      run: git config --global user.email "Manoel Carvalho"
     - name: Generate data
       run: bash gen.sh
     - name: Push changes
