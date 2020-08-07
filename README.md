@@ -1,5 +1,5 @@
 # CotasFI
-Pegue os valores diários das cotas do seus fundos de investimento automaticamente na suas Planilhas do Google e gerencie melhor seus ativos. ![CI](https://github.com/manoelhc/CotasFI/workflows/CI/badge.svg)
+Importe os valores diários das cotas do seus fundos de investimento automaticamente na suas Planilhas do Google e gerencie melhor seus ativos. ![CI](https://github.com/manoelhc/CotasFI/workflows/CI/badge.svg)
 
 #  Disclaimer
 
