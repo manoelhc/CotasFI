@@ -1,5 +1,5 @@
 # CotasFI
-Dados de cotas de fundos de investimento para Google Planilhas (_Google Sheets_ na versão em inglês). ![CI](https://github.com/manoelhc/CotasFI/workflows/CI/badge.svg)
+Pegue os valores diários das cotas do seus fundos de investimento automaticamente na suas Planilhas do Google e gerencie melhor seus ativos. ![CI](https://github.com/manoelhc/CotasFI/workflows/CI/badge.svg)
 
 #  Disclaimer
 
