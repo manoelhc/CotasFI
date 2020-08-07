@@ -43,7 +43,7 @@ Alaska Black Institucional, no caso, seria: `=FIPrecoCota(26.673.556/0001-32)`
 Fique tranquilo quanto ao código acima. Ele não está, de maneira alguma, executando ou coletando dados das suas planilhas. A fonte dos dados é totalmente estática e pública.
 
 # Dicas
-*Listei alguns fundos aleatoriamente para gerar está planilha. Não é recomendação!*
+*Listei alguns fundos aleatoriamente para gerar esta planilha. Não é recomendação!*
 Uma forma de organizar os fundos é colocando os CNPJs numa coluna paralela, como:
 ![Planilha](./imgs/ex1.png)
 
@@ -51,7 +51,7 @@ Como podemos ver, na coluna `C` temos o __Valor Cota__, na célula `C2`, está a
 
 ### Como eu descubro o CNPJ do meu fundo? 
  * Para saber o CNPJ do seu fundo, consulte o prospécto do mesmo. Ex.:
-![Prospecto](./imgs/ex2.jpg =250x)
+![Prospecto](./imgs/ex2.jpg)
 
  * Outra forma é consultar no site da Vérios: https://verios.com.br/apps/comparacao/log/otimo/cdi/. Tome cuidado, pois há vários fundos espelhos cuja as cotas são diferentes do fundo original. Ex.:
  ![verios](./imgs/ex3.png)
@@ -59,4 +59,4 @@ Como podemos ver, na coluna `C` temos o __Valor Cota__, na célula `C2`, está a
 ### Como eu descubro o número de cotas que possuo?
 
 Você pode encontrar facilmente no aplicativo da sua corretora. Um exemplo, pela corretora Rico:
-![verios](./imgs/ex4.jpg =250x)
+![verios](./imgs/ex4.jpg)
