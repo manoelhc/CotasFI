@@ -38,7 +38,7 @@ Agora você está pronto para usar a função. Para usá-la, basta digitar em um
 
 Alaska Black Institucional, no caso, seria: `=FIPrecoCota(26.673.556/0001-32)`
 
-# Seguraça
+# Segurança
 
 Fique tranquilo quanto ao código acima. Ele não está, de maneira alguma, executando ou coletando dados das suas planilhas. A fonte dos dados é totalmente estática e pública.
 
